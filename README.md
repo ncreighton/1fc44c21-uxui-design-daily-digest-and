@@ -1,2 +1,34 @@
-# 1fc44c21-uxui-design-daily-digest-and
-Stop missing messages, manually responding to routine requests at all hours. Start automated monitoring and response around the clock.  24/7 operation — runs on your server or scales to any hosting platform. Multi-server support with per-server configuration and permission levels.  ## What's Included  - Ux/Ui Design Daily Digest And Alerts — fully
+# UX/UI Design Daily Digest and Alerts Telegram Bot
+
+Curated daily updates, trend alerts, and personalized notifications for UX/UI Design professionals. Stay informed without information overload.
+
+## Setup
+1. Set `TELEGRAM_BOT_TOKEN` in `.env`
+2. `pip install -r requirements.txt`
+3. `python main.py`
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic commands | Yes | Yes |
+| Standard responses | Yes | Yes |
+| Community access | Yes | Yes |
+| Custom commands | - | Yes |
+| Analytics dashboard | - | Yes |
+| Priority processing | - | Yes |
+| API webhooks | - | Yes |
+| Unlimited servers | - | Yes |
+| White-label branding | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/aFa4gzdPp4sc1decDWcZM1F)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/aFa4gzdPp4sc1decDWcZM1F)
+
